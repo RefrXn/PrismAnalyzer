@@ -5,6 +5,9 @@
 # PrismAnalyzer
 FPGA implementation of a **32×8 WS2812B LED matrix spectrum visualizer**, written in **Verilog-2001**, using the **WM8731 audio codec** for input and a Xilinx FFT IP core for spectral analysis.
 
+本项目为 **南京邮电大学「芯芯点灯」活动参赛作品**  
+This project is an entry for the **"Shining Core – Lighting Challenge" organized by NJUPT**.
+
 ---
 
 ## Overview
