@@ -35,4 +35,22 @@ top.v
 └── top_led.v
     ├── spectrum_to_led.v
     └── ws2812_dri.v
+```
 
+---
+
+## 🔄 Data Flow
+```text
+Audio In (WM8731 / I²S)
+        ↓
+     top_codec
+        ↓
+     top_fft
+        ↓
+  FFT → Magnitude → Band Accumulation
+        ↓
+     top_led
+        ↓
+ Spectrum Mapping → WS2812 Timing
+        ↓
+ LED Matrix Visualization
