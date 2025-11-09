@@ -82,7 +82,7 @@ Audio In (WM8731 / I²S)
 
 **CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W-2.0)**  
 
-Copyright © 2025 Refracción  
+Copyright © 2025 RefrXn  
 
 This source describes Open Hardware and is licensed under the CERN-OHL-W v2.  
 
