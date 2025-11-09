@@ -1,3 +1,7 @@
+[![License: CERN-OHL-W-2.0](https://img.shields.io/badge/License-CERN--OHL--W--2.0-blue.svg)](LICENSE)
+[![FPGA](https://img.shields.io/badge/FPGA-Verilog--2001-green.svg)]()
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+
 # PrismAnalyzer
 FPGA implementation of a **32×8 WS2812B LED matrix spectrum visualizer**, written in **Verilog-2001**, using the **WM8731 audio codec** for input and a Xilinx FFT IP core for spectral analysis.
 
